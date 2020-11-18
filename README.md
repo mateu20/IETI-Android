@@ -1,7 +1,7 @@
 ### Escuela Colombiana de Ingeniería
 ### Innovación y emprendimiento con TI
 
-### Laboratorio 11 - Android - My first App
+### Laboratorio 12 - Android Secure REST API
 
 ### Codigo de honor:
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
